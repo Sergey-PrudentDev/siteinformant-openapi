@@ -60,7 +60,7 @@ The openapi-public.json file defines:
 You can import this file directly into Postman, Swagger UI, or any OpenAPI-compatible SDK generator.
 
 ## 🔗 Related Resources
-[Blog announcement: Free Website Uptime API – JSON for Developers and AI Integrations](https://siteinformant.com/blog/free-website-uptime-api)
+Blog announcement: [Free Website Uptime API – JSON for Developers and AI Integrations](https://siteinformant.com/blog/free-website-uptime-api)
 
 
 Dev.to post: [dev.to/saganmarketing](https://dev.to/saganmarketing/free-website-uptime-api-json-for-developers-and-ai-integrations-519m)

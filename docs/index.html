@@ -4,10 +4,11 @@
   <meta charset="utf-8"/>
   <title>Site Informant API (OpenAPI)</title>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <style>html,body,#redoc{height:100%}body{margin:0}</style>
+  <style>html,body,#redoc{height:100%;margin:0}</style>
   <script src="https://cdn.redoc.ly/redoc/latest/bundles/redoc.standalone.js"></script>
 </head>
 <body>
-  <redoc spec-url="https://api.siteinformant.com/api/public/openapi.json"></redoc>
+  <div id="redoc"></div>
+  <script>Redoc.init('https://api.siteinformant.com/api/public/openapi.json', {}, document.getElementById('redoc'));</script>
 </body>
 </html>

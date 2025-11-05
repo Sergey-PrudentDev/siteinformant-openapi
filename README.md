@@ -1,3 +1,7 @@
+[![OpenAPI](https://img.shields.io/badge/API-OpenAPI%203.0-blue)](https://api.siteinformant.com/api/public/openapi.json)
+[![Docs](https://img.shields.io/badge/Docs-Developers%20Page-informational)](https://siteinformant.com/Developers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 # Site Informant OpenAPI
 
 Official OpenAPI specification for the **[Site Informant](https://siteinformant.com)** public JSON API —  
